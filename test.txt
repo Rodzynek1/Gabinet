@@ -1,2 +1,3 @@
 moje pierwsze repozytorium. 
 nowa linijka 
+to jest do nowej wersji 
